@@ -6,7 +6,7 @@ Desenvolvedor em constante evolução, aprendendo na prática com projetos de so
 
 ## 🚀 Sobre mim
 
-- 🔭 Meu principal projeto é o **Campo Certo**, uma aplicação web de gestão de produtores rurais, fazendas, participantes e notas fiscais eletrônicas. Também desenvolvo o **[Livro Caixa RV](https://github.com/rodrigovaz0606-ux/LivroCaixaRv)**, voltado ao controle financeiro de um mercado.
+- 🔭 Meu principal projeto é o **[Campo Certo](https://github.com/rodrigovaz0606-ux/Campo_Certo)**, uma aplicação web de gestão de produtores rurais, fazendas, participantes e notas fiscais eletrônicas. Também desenvolvo o **[Livro Caixa RV](https://github.com/rodrigovaz0606-ux/LivroCaixaRv)**, voltado ao controle financeiro de um mercado.
 - 🌱 Estou estudando **APIs HTTP, testes no Postman, ORM, arquitetura modular, Clean Architecture, arquitetura hexagonal, filas, jobs e workers**.
 - 🛠️ Meus projetos utilizam **JavaScript, React, Node.js, Express, Rust, SQLite e Docker**.
 - 💬 Podemos conversar sobre **o desenvolvimento do Campo Certo e do Livro Caixa RV, aplicações web, importação de XML de NF-e e meu aprendizado em programação**.
@@ -34,15 +34,15 @@ Tecnologias utilizadas nos meus projetos:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rodrigovaz0606-ux&show_icons=true&theme=default)
+[Veja minhas contribuições e meus repositórios diretamente no GitHub](https://github.com/rodrigovaz0606-ux).
 
 ---
 
 ## 📌 Projetos em destaque
 
-### Campo Certo — Gestão de Produtor Rural
+### [Campo Certo — Gestão de Produtor Rural](https://github.com/rodrigovaz0606-ux/Campo_Certo)
 
 Meu projeto mais completo: uma aplicação web que reúne cadastros rurais, autenticação de usuários e importação e conferência de notas fiscais eletrônicas.
 
@@ -59,7 +59,7 @@ Meu projeto mais completo: uma aplicação web que reúne cadastros rurais, aute
 
 **Tecnologias:** JavaScript, React, Vite, Node.js, Express, SQLite, JWT, bcrypt e Docker.
 
-*O repositório do Campo Certo é privado.*
+[Acesse o código do Campo Certo](https://github.com/rodrigovaz0606-ux/Campo_Certo).
 
 ---
 
